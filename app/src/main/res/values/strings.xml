@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Idade</string>
+    <string name="informe_seu_nome">Informe seu nome</string>
+    <string name="informe_o_ano_em_que_voc_nasceu">Informe o ano em que você nasceu</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="quantos_anos_voc_tem">QUANTOS ANOS VOCÊ TEM?</string>
+    <string name="exibir_resultado">%1s, você possui %2d anos!</string>
+    <string name="resultado_erro">Dados inválidos! Digite Novamente!</string>
+</resources>
